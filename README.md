@@ -13,7 +13,9 @@ I enjoy developing web apps that feature readable code, user experience and desi
 - 💻 Next project: remake my blog in React.
 
 Links:
-- ✍️ Check out my blog (in Italian): https://bambooandgreen.com/
+
+- 💼 LinkedIn: https://www.linkedin.com/in/letiziasorrentino/
+- ✍ Check out my blog (in Italian): https://bambooandgreen.com/
 
 Tech Stack:
 - HTML, CSS, Javascript;
