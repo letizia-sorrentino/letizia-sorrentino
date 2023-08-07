@@ -2,15 +2,22 @@
 
 <!--
 **letizia-sorrentino/letizia-sorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm frontend engineer specialising in React and Redux toolkit.
+
+I enjoy developing web apps that feature readable code, user experience and design aesthetics. I blog about sustainability and zero waste, and have one masters' degree in linguistics and one in marketing.
+
+- 🔭 I’m currently working on a recipe full stack web app and my portfolio.
+- 🌱 I’m currently learning typescript.
+- 💻 Next project: remake my blog in React.
+
+Links:
+- ✍️ Check out my blog (in Italian): https://bambooandgreen.com/
+
+Tech Stack:
+- HTML, CSS, Javascript;
+- React;
+- Redux Toolkit;
+- Node.js;
+- Express.js;
