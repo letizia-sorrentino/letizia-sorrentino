@@ -4,7 +4,7 @@
 **letizia-sorrentino/letizia-sorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm a frontend engineer specialising in React and Redux toolkit.
+### I'm a frontend engineer specialising in React, Redux toolkit and Node.js.
 
 I enjoy developing web apps that feature readable code, user experience and design aesthetics. I blog about sustainability and zero waste, and have one masters' degree in linguistics and one in marketing.
 
