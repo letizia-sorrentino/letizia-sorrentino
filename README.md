@@ -18,8 +18,10 @@ I enjoy developing web apps that feature readable code, user experience and desi
 - ✍ Check out my blog (in Italian): https://bambooandgreen.com/
 
 ### Tech Stack:
-- HTML, CSS, Javascript;
-- React;
-- Redux Toolkit;
-- Node.js;
-- Express.js;
+• HTML, CSS, Javascript;
+• React.js;
+• Redux Toolkit;
+• Node.js;
+• Express.js;
+• SQL;
+• Canva.
