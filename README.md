@@ -13,7 +13,7 @@ I enjoy developing web apps that feature readable code, user experience and desi
 - 💻 Next project: a series of mini-project to practice my TypeScript skills.
 
 ### Links:
-
+- ✏️ Portfolio: https://letiziasorrentino.com/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/letiziasorrentino/
 - ✍ Check out my blog (in Italian): https://bambooandgreen.com/
 
