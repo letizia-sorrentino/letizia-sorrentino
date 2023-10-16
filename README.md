@@ -10,7 +10,7 @@ I enjoy developing web apps that feature readable code, user experience and desi
 
 - 🔭 I’m currently working on a todo app.
 - 🌱 I’m currently learning TypeScript.
-- 💻 Next project: a series of mini-project to practice my TypeScript skills.
+- 💻 Next project: a series of mini-projects to practice my TypeScript skills.
 
 ### Links:
 - ✏️ Portfolio: https://letiziasorrentino.com/ 
