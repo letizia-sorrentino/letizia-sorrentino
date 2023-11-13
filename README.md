@@ -8,7 +8,7 @@
 
 I enjoy developing web apps that feature readable code, user experience and design aesthetics. I blog about sustainability and zero waste, and have one masters' degree in linguistics and one in marketing.
 
-- 🔭 I’m currently working on a todo app.
+- 🔭 I’m currently working on a E-commerce product page.
 - 🌱 I’m currently learning TypeScript.
 - 💻 Next project: a series of mini-projects to practice my TypeScript skills.
 
