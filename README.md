@@ -18,8 +18,6 @@ I enjoy developing web apps that feature readable code, user experience and desi
 - ✍ Check out my blog (in Italian): https://bambooandgreen.com/
 
 ### Tech Stack:
-![image](https://github.com/letizia-sorrentino/letizia-sorrentino/assets/116899981/3f4c897c-2a30-49a5-ab89-a1825df7cb57)
-
 - HTML, CSS, SCSS;
 - Javascript;
 - React.js;
