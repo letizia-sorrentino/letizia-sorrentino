@@ -22,8 +22,11 @@ I enjoy developing web apps that feature readable code, user experience and desi
 - Javascript;
 - React.js;
 - Redux Toolkit;
+- Material-UI;
 - TypeScript;
 - Node.js;
 - Express.js;
 - SQL;
+- Figma;
 - Canva.
+
