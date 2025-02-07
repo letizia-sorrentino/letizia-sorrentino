@@ -11,11 +11,11 @@ I specialise in React and React Native, leveraging my expertise in JavaScript, T
 -  💻 I’m currently working on a smart app that predicts and addresses baby sleep and development challenges to provide valuable solutions for parents.
 - 🌱 I’m attending a 6-weeks hands-on GenAI bootcamp by ExamPro.
   
-### Links:
+## Links:
 - ✏️ Portfolio: https://letiziasorrentino.com/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/letiziasorrentino/
 
-### 🔧 Tech Stack:
+## 🔧 Tech Stack:
 
 ### Frontend
 - HTML, CSS, SCSS
@@ -32,7 +32,7 @@ I specialise in React and React Native, leveraging my expertise in JavaScript, T
 ### Version Control & Collaboration
 - Git, GitHub, Agile methodologies
 
-### 🛠 Soft Skills
+## 🛠 Soft Skills
 
 Growth mindset, adaptability, communication, organisation, and a passion for continuous learning.
 
