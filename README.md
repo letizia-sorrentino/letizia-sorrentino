@@ -4,7 +4,7 @@
 **letizia-sorrentino/letizia-sorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm a frontend developer with Full-Stack Experience.
+### I'm a frontend developer with Full-Stack knowledge.
 
 I specialise in React and React Native, leveraging my expertise in JavaScript, TypeScript, Node.js, Redux Toolkit, HTML, CSS, SCSS, and Material-UI to create seamless digital experiences. Currently, I'm expanding my backend knowledge and exploring how AI can enhance digital products.
 
