@@ -8,8 +8,9 @@
 
 I specialise in React and React Native, leveraging my expertise in JavaScript, TypeScript, Node.js, Redux Toolkit, HTML, CSS, SCSS, and Material-UI to create seamless digital experiences. Currently, I'm expanding my backend knowledge and learning how to integrate AI into digital products.
 
--  💻 I'm contributing to the development of on a smart app that predicts and addresses baby sleep and development challenges to provide valuable solutions for parents.
-- 🌱 I’m attending a 6-weeks hands-on GenAI bootcamp by ExamPro.
+- 💻 I'm contributing to the development of a smart app that predicts and addresses baby sleep and development challenges to provide valuable solutions for parents.
+- 🤖 I have completed a 6-week hands-on GenAI bootcamp by ExamPro.
+- 🧠 I’m taking part in the Cajigo AI Bootcamp, focusing on prompt engineering, AI tools, and agent-based workflows through a hands-on, project-driven approach.
   
 ## 🔗 Links:
 - ✏️ Portfolio: https://letiziasorrentino.com/ 
