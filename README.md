@@ -9,8 +9,8 @@
 I build web and mobile features with clear user flows, solid UX and reliable cross-platform behaviour. I’m also learning applied AI, exploring LLM APIs and prompt pipelines to bring AI features into digital products.
 
 ## 💻 Current Work
-• **Mellow Kids** — Mobile app supporting parents with baby sleep and development insights (React Native, Expo, TypeScript, Redux Toolkit, Firebase).
-• **VisionAriser** — Personal growth app focused on assessment, journaling and affirmations (React Native, TypeScript, Redux Toolkit, Firebase, Framer).
+• **Mellow Kids** — Mobile app supporting parents with baby sleep and development insights (React Native, Expo, TypeScript, Redux Toolkit).
+• **VisionAriser** — Personal growth app focused on assessment, journaling and affirmations (React Native, TypeScript, Redux Toolkit, Firebase).
 
 ## 🤖 AI Development
 Completed two AI bootcamps (Cajigo AI Bootcamp and ExamPro GenAI Program) focused on LLM APIs, prompt engineering and applied AI integrations.
