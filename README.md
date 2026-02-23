@@ -21,5 +21,4 @@ Currently building a personal project exploring AI integration in consumer-facin
 React Native (Expo), React, TypeScript, Redux Toolkit, RTK Query, Firestore, GraphQL, Node.js, Express.js, Tailwind, Git, Firebase, Figma, LLM APIs
 
 ## 🔗 Links:
-- ✏️ Portfolio: https://letiziasorrentino.com/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/letiziasorrentino/
