@@ -18,7 +18,7 @@ Completed two AI bootcamps (Cajigo AI Bootcamp and ExamPro GenAI Program) focuse
 Currently building a personal project exploring AI integration in consumer-facing frontend products.
 
 ## 🛠 Tech Stack:
-React Native (Expo), React, TypeScript, Redux Toolkit, RTK Query, Firestore, GraphQL, Node.js, Express.js, Tailwind, Git, Firebase, Figma, LLM APIs
+React Native (Expo) | React | TypeScript | JavaScript (ES6+) | Node.js | Express.js | REST APIs | GraphQL | Redux Toolkit | RTK Query | Firestore | LLM APIs | LangFlow | Figma | React Native styling | Tailwind | Material UI | CSS/SCSS | HTML5 | Git | EAS Build | Framer
 
 ## 🔗 Links:
 - 💼 LinkedIn: https://www.linkedin.com/in/letiziasorrentino/
