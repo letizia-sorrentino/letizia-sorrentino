@@ -4,7 +4,7 @@
 **letizia-sorrentino/letizia-sorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm a frontend developer specialising in React Native, React and TypeScript.
+### I'm a frontend engineer specialising in React Native, React and TypeScript.
 
 I build web and mobile features with clear user flows, solid UX and reliable cross-platform behaviour. I’m also learning applied AI, exploring LLM APIs and prompt pipelines to bring AI features into digital products.
 
